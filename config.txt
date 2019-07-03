@@ -1,0 +1,6 @@
+﻿token=NTQzNDIwMTI5NTAxOTA0OTA3.XRzamg.odmRyXuqGd7btZvOCg_GkYMgPIo
+owner=298878949461590017
+prefix=8
+game=8help
+stayinchannel=false
+songinstatus=true 
